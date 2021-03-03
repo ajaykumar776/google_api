@@ -10,8 +10,8 @@
 
 # Snapshots
 * Home screen
-![HOME SCREEN](snapshots/home.png)
+![HOME SCREEN](snapshots/welcome.png)
 * Login screen
-![LOGIN SCREEN](snapshots/login.png)
+![LOGIN SCREEN](snapshots/dashboard.png)
 * Dashboard screen
-![YOUR DASHBOARD SCREEN](snapshots/welcome.png)
+![YOUR DASHBOARD SCREEN](snapshots/logout.png)
